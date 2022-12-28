@@ -1,0 +1,62 @@
+fcogama
+Francisco Gama
+Cloud Platform Engineering
+Madrid, Spain
+==================================================================
+https://keybase.io/fcogama
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fcogama.github.io
+  * I am fcogama (https://keybase.io/fcogama) on keybase.
+  * I have a public key ASDUcxxf-r7WFqrfcvUfElSCqR6XKFxrXjFw2WU5d2ry_go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120723c61d38ceb488253aa2356fab786639a4887af047eef0cb66b2314410122660a",
+      "host": "keybase.io",
+      "kid": "0120d4731c5ffabed616aadf72f51f125482a91e97285c6b5e3170d96539776af2fe0a",
+      "uid": "18207c9f1d50e22e01677ed84af7da19",
+      "username": "fcogama"
+    },
+    "merkle_root": {
+      "ctime": 1672215578,
+      "hash": 
+"ecdf0b78cde213848566c18b0e8ec58f66e46e2b858e86f6588ee9fda7775d3f3086bccce6b70ff0fd6b4fed7d0e6cbd8fe352e23563562ca0d1c7f03d49e764",
+      "hash_meta": "35ccfe32efe23ebf6535dd0f3a7fd4db1c190bffb87807d8eb91daaa17800cb5",
+      "seqno": 23777241
+    },
+    "service": {
+      "entropy": "bKllD6j5yrPJH+GPkAvPbEkX",
+      "hostname": "fcogama.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.3"
+  },
+  "ctime": 1672215673,
+  "expire_in": 504576000,
+  "prev": "5de3283430d55a4ca982e593ad8559223d8a5f3ce90c365a341b41199c45a9c0",
+  "seqno": 44,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1HMcX/q+1haq33L1HxJUgqkelyhca14xcNllOXdq8v4Kp3BheWxvYWTESpcCLMQgXeMoNDDVWkypguWTrYVZIj2KXzzpDDZaNBtBGZxFqcDEINum4WMFLtiSCa1kgpeKlJkTSUQvkY3nHijLHgZz7MJOAgHCo3NpZ8RATbLzblj2onbHKwRBsbzZFw4RTL32TvjY5uNt6fWe1XXF0DeglSijjwmNNpsvnTfB2vZj6mDRHA92XID0iY8eDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDlKJyGk9lU0IhvzEeHfh7gTGopzJBeoNQuEEvLHkQ0qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fcogama
+
+==================================================================
+
